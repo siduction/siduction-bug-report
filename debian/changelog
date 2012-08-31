@@ -1,0 +1,6 @@
+siduction-bug-report (0.1-1) UNRELEASED; urgency=low
+
+  * closes: #814  
+  * Initial release
+
+ -- Ovidiu Angelescu <convbsd@siduction.net>  Thu, 30 Aug 2012 16:45:34 +0300
