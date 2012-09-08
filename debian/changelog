@@ -1,6 +1,15 @@
 siduction-bug-report (0.1-2) UNRELEASED; urgency=low
 
+  [ Ovidiu Angelescu ]
   * closes #814 #817  
+
+  [ Alf Gaida ]
+  * fixed debian/control VCS-fields and homepage
+  * added short and long description to debian/control
+  * set dephelpers to >= 9
+  * removed boileplate from debian/copyright
+  * added myself to Uploaders
+  * build closes #830
 
  -- Ovidiu Angelescu <convbsd@siduction.net>  Sun, 2 Sep 2012 21:31:34 +0300
 

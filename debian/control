@@ -2,14 +2,15 @@ Source: siduction-bug-report
 Section: unknown
 Priority: extra
 Maintainer: Ovidiu <convbsd@siduction.net>
-Build-Depends: debhelper (>= 8.0.0)
+Uploaders: Alf Gaida <agaida@siduction.org
+Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.3
-Homepage: <insert the upstream URL, if relevant>
-#Vcs-Git: git://git.debian.org/collab-maint/siduction-bug-report.git
-#Vcs-Browser: http://git.debian.org/?p=collab-maint/siduction-bug-report.git;a=summary
+Homepage: http://chili.siduction.org/projects/siduction/wiki/Siduction-bug-report
+Vcs-Git: git://git.siduction.org/code/siduction-bug-report.git
+Vcs-Browser: http://git.siduction.org/?p=code/siduction-bug-report.git;a=summary
 
 Package: siduction-bug-report
 Architecture: all
 Depends: ${misc:Depends}
-Description: <insert up to 60 chars description>
- <insert long description, indented with spaces>
+Description: Bug reporting tool for siduction
+ Insert a link to http://chili.siduction.org to the menu
