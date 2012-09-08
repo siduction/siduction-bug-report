@@ -1,8 +1,8 @@
 Source: siduction-bug-report
-Section: unknown
-Priority: extra
+Section: utils
+Priority: optional
 Maintainer: Ovidiu <convbsd@siduction.net>
-Uploaders: Alf Gaida <agaida@siduction.org
+Uploaders: Alf Gaida <agaida@siduction.org>
 Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.3
 Homepage: http://chili.siduction.org/projects/siduction/wiki/Siduction-bug-report

@@ -1,0 +1,7 @@
+# some unneeded debian debris
+debian/files
+debian/lintian-overrides
+debian/siduction-bug-report.debhelper.log
+debian/siduction-bug-report.substvars
+debian/siduction-bug-report/
+

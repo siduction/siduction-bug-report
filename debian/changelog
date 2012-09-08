@@ -1,4 +1,17 @@
-siduction-bug-report (0.1-2) UNRELEASED; urgency=low
+siduction-bug-report (0.1.2) UNRELEASED; urgency=low
+
+  * fix some remaining lintian issues 
+    - latest-debian-changelog-entry-changed-to-native, done with new
+      number
+  * section-is-dh_make-template done, set section to utils, priority
+    poptional 
+  * lintian-override added:
+    -  siduction-bug-report: desktop-command-not-in-package
+  * .gitignore added 
+
+ -- Alf Gaida <agaida@siduction.org>  Sat, 08 Sep 2012 18:52:55 +0200
+
+siduction-bug-report (0.1.1) unstable; urgency=low
 
   [ Ovidiu Angelescu ]
   * closes #814 #817  
@@ -10,8 +23,9 @@ siduction-bug-report (0.1-2) UNRELEASED; urgency=low
   * removed boileplate from debian/copyright
   * added myself to Uploaders
   * build closes #830
+  * change numbering to native builds
 
- -- Ovidiu Angelescu <convbsd@siduction.net>  Sun, 2 Sep 2012 21:31:34 +0300
+ -- Alf Gaida <agaida@siduction.org>  Sat, 08 Sep 2012 18:52:29 +0200
 
 siduction-bug-report (0.1-1) UNRELEASED; urgency=low
 
