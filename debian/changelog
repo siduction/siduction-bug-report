@@ -1,4 +1,4 @@
-siduction-bug-report (0.1.2) UNRELEASED; urgency=low
+siduction-bug-report (0.1.2) unstable; urgency=low
 
   * fix some remaining lintian issues 
     - latest-debian-changelog-entry-changed-to-native, done with new
@@ -9,7 +9,7 @@ siduction-bug-report (0.1.2) UNRELEASED; urgency=low
     -  siduction-bug-report: desktop-command-not-in-package
   * .gitignore added 
 
- -- Alf Gaida <agaida@siduction.org>  Sat, 08 Sep 2012 18:52:55 +0200
+ -- Alf Gaida <agaida@siduction.org>  Sat, 08 Sep 2012 19:02:08 +0200
 
 siduction-bug-report (0.1.1) unstable; urgency=low
 
