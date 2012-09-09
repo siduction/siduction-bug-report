@@ -1,8 +1,12 @@
-siduction-bug-report (0.1.3) UNRELEASED; urgency=low
+siduction-bug-report (0.1.3) unstable; urgency=low
 
+  [ Ovidiu Angelescu ]
   * added siduction-art-icons and xdg-utils as depends in control file 
 
- -- Ovidiu Angelescu <convbsd@siduction.net>  Sun, 09 Set 2012 09:40:34 +0300
+  [ Alf Gaida ]
+  * rebuild closes #833 
+
+ -- Alf Gaida <agaida@siduction.org>  Sun, 09 Sep 2012 13:27:59 +0200
 
 siduction-bug-report (0.1.2) unstable; urgency=low
 
