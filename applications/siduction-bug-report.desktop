@@ -1,13 +1,13 @@
 [Desktop Entry]
-Comment=Siduction Bug Tracking System
-Comment[ca]=Sistema de seguiment d'errors de Siduction
-Comment[de]=Siduction Fehlerbeseitigungs-System
-Exec=xdg-open http://chili.siduction.org/projects/siduction/issues/
+Type=Application
+StartupNotify=true
+Terminal=false
+Exec=x-www-browser http://chili.siduction.org/projects/siduction/issues/
 Icon=chipsyBug
 Name=Siduction Bugs
 Name[ca]=Siduction Errors
 Name[de]=Siduction Fehler
-StartupNotify=true
-Terminal=false
-Type=Application
+Comment=Siduction Bug Tracking System
+Comment[ca]=Sistema de seguiment d'errors de Siduction
+Comment[de]=Siduction Fehlerbeseitigungs-System
 Categories=System;
