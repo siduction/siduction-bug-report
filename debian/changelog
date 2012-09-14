@@ -1,9 +1,16 @@
-siduction-bug-report (0.1-4) UNRELEASED; urgency=low
+siduction-bug-report (0.1.4) unstable; urgency=low
 
+  [ Ovidiu Angelescu ]
   * modified siduction-bug-report.desktop to be rqt compliant
-  * removed xdg-utils from control ( now we use x-www-browser instead of xdg-open)
+  * removed xdg-utils from control ( now we use x-www-browser instead
+    of xdg-open)
 
- -- Ovidiu Angelescu <convbsd@siduction.net>  Fri, 14 Sep 2012 13:38:34 +0300
+  [ Alf Gaida ]
+  * rebuild closes #846
+  * changed back numbering to native numbering
+  * fixed changelog, max 80 char per line please
+
+ -- Alf Gaida <agaida@siduction.org>  Sat, 15 Sep 2012 00:53:07 +0200
 
 siduction-bug-report (0.1.3) unstable; urgency=low
 
