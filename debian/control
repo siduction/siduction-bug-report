@@ -12,6 +12,6 @@ Vcs-Browser: http://git.siduction.org/?p=code/siduction-bug-report.git;a=summary
 Package: siduction-bug-report
 Architecture: all
 Depends: ${misc:Depends},
- siduction-art-icons
+ siduction-icons
 Description: Bug reporting tool for siduction
  Insert a link to http://chili.siduction.org to the menu

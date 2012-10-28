@@ -1,3 +1,9 @@
+siduction-bug-report (0.1.5) unstable; urgency=low
+
+  * dependency changed from siduction-art-icons to siduction-art
+
+ -- Alf Gaida <agaida@siduction.org>  Sun, 28 Oct 2012 19:26:23 +0100
+
 siduction-bug-report (0.1.4) unstable; urgency=low
 
   [ Ovidiu Angelescu ]
