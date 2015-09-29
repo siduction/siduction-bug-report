@@ -1,3 +1,13 @@
+siduction-bug-report (0.1.6) unstable; urgency=low
+
+  [ Angelescu Ovidiu ]
+  * added menu under debian for show icon in text based menus
+
+  [ Alf Gaida ]
+  * use current standards
+
+ -- Alf Gaida <agaida@siduction.org>  Tue, 29 Sep 2015 02:19:51 +0200
+
 siduction-bug-report (0.1.5) unstable; urgency=low
 
   * dependency changed from siduction-art-icons to siduction-art

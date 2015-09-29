@@ -4,7 +4,7 @@ Priority: optional
 Maintainer: Ovidiu <convbsd@siduction.net>
 Uploaders: Alf Gaida <agaida@siduction.org>
 Build-Depends: debhelper (>= 9)
-Standards-Version: 3.9.3
+Standards-Version: 3.9.6
 Homepage: http://chili.siduction.org/projects/siduction/wiki/Siduction-bug-report
 Vcs-Git: git://git.siduction.org/code/siduction-bug-report.git
 Vcs-Browser: http://git.siduction.org/?p=code/siduction-bug-report.git;a=summary
@@ -12,6 +12,6 @@ Vcs-Browser: http://git.siduction.org/?p=code/siduction-bug-report.git;a=summary
 Package: siduction-bug-report
 Architecture: all
 Depends: ${misc:Depends},
- siduction-icons
+         siduction-icons
 Description: Bug reporting tool for siduction
  Insert a link to http://chili.siduction.org to the menu
