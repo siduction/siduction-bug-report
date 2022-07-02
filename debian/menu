@@ -4,4 +4,4 @@
     hints="Send bug" \
     title="Siduction Bug Report" \
     icon="/usr/share/pixmaps/chipsyBug.xpm" \
-    command="x-www-browser http://chili.siduction.org/projects/siduction/issues"
+    command="x-www-browser https://forum.siduction.org/index.php#c9"

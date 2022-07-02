@@ -2,7 +2,7 @@
 Type=Application
 StartupNotify=true
 Terminal=false
-Exec=x-www-browser http://chili.siduction.org/projects/siduction/issues/
+Exec=x-www-browser https://forum.siduction.org/index.php#c9
 Icon=chipsyBug
 Name=Siduction Bugs
 Name[ca]=Siduction Errors

@@ -1,17 +1,17 @@
 Source: siduction-bug-report
 Section: utils
 Priority: optional
-Maintainer: Ovidiu <convbsd@siduction.net>
-Uploaders: Alf Gaida <agaida@siduction.org>
+Maintainer: Vinzenz Vietzke <vinzv@siduction.org>
+Uploaders: Vinzenz Vietzke <vinzv@siduction.org>
 Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.6
-Homepage: http://chili.siduction.org/projects/siduction/wiki/Siduction-bug-report
-Vcs-Git: git://git.siduction.org/code/siduction-bug-report.git
-Vcs-Browser: http://git.siduction.org/?p=code/siduction-bug-report.git;a=summary
+Homepage: https://forum.siduction.org/index.php#c9
+Vcs-Git: git://github.com/siduction/siduction-bug-report.git
+Vcs-Browser: https://github.com/siduction/siduction-bug-report.git
 
 Package: siduction-bug-report
 Architecture: all
 Depends: ${misc:Depends},
          siduction-icons
 Description: Bug reporting tool for siduction
- Insert a link to http://chili.siduction.org to the menu
+ Insert a link to https://forum.siduction.org/index.php#c9 to the menu

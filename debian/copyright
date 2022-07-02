@@ -1,6 +1,6 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: siduction-bug-report
-Source: <git://git.siduction.org/code/siduction-bug-report.git>
+Source: <git://github.com/siduction/siduction-bug-report.git>
 
 Files: *
 Copyright: 2012 Ovidiu Angelescu <convbsd@siduction.net>
@@ -9,6 +9,7 @@ License: GPL-3.0+
 Files: debian/*
 Copyright: 2012 Ovidiu Angelescu <convbsd@siduction.net>
            2012 Alf Gaida <agaida@siduction.org>
+           2022 Vinzenz Vietzke <vinzv@siduction.org>
 License: GPL-3.0+
 
 License: GPL-3.0+
